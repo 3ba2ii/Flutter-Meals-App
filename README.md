@@ -4,9 +4,9 @@ A New Flutter project.
 
 ## Application Description 
 
--A Fully adaptive and responsive IOS/ANDROID Application developen using flutter.
--Categorizes and Favorites the Meals to be easier for the user to choose from.
--Shows every meal's ingredients to help the user to make some delicious food.
+- A Fully adaptive and responsive IOS/ANDROID Application developen using flutter.
+- Categorizes and Favorites the Meals to be easier for the user to choose from.
+- Shows every meal's ingredients to help the user to make some delicious food.
 
 ## Getting Started
 
