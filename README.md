@@ -1,9 +1,8 @@
 # YUMMY!!
 
-A New Flutter project.
+A new Flutter project Application called YUMMY can be used for any thing related to food making.
 
 ## Application Description 
-
 - A Fully adaptive and responsive IOS/ANDROID Application developen using flutter.
 - Categorizes and Favorites the Meals to be easier for the user to choose from.
 - Shows every meal's ingredients to help the user to make some delicious food.
